@@ -1,0 +1,32 @@
+symptom,specialist
+fever,General Physician
+cough,Pulmonologist
+chest pain,Cardiologist
+skin rash,Dermatologist
+eye irritation,Ophthalmologist
+joint pain,Rheumatologist
+anxiety,Psychiatrist
+headache,Neurologist
+stomach pain,Gastroenterologist
+back pain,Orthopedic Surgeon
+high blood pressure,Cardiologist
+irregular heartbeat,Cardiologist
+weakness,General Physician
+dizziness,Neurologist
+shortness of breath,Pulmonologist
+burning urination,Urologist
+frequent diarrhea,Gastroenterologist
+memory loss,Neurologist
+menstrual issues,Gynecologist
+chronic cough,Pulmonologist
+ear pain,ENT Specialist
+swollen lymph nodes,Oncologist
+shivering,General Physician
+nausea,Gastroenterologist
+vomiting,Gastroenterologist
+blurred vision,Ophthalmologist
+irregular periods,Gynecologist
+fatigue,Endocrinologist
+chills,General Physician
+weight gain,Endocrinologist
+weight loss,Endocrinologist
